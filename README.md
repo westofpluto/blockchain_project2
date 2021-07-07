@@ -1,11 +1,11 @@
-#README for project submission
+# README for project submission
 This file contains required information for project submission, plus the starter code readme text
 
-Truffle version: 5.3.11
-OpenZeppelin version: 2.3.0
-Token Name: "My Sunday Token"
-Token Symbol: "MSUT"
-Token Contract Address on Rinkeby: 0x072A13172BeFc800Ac837511c9cEB266664Ff0fc
+Truffle version: 5.3.11  
+OpenZeppelin version: 2.3.0  
+Token Name: "My Sunday Token"  
+Token Symbol: "MSUT"  
+Token Contract Address on Rinkeby: 0x072A13172BeFc800Ac837511c9cEB266664Ff0fc  
 
 NOTE: To test this out, you will need to have a file called .secret in the root of the project folder.
 This file must contain the 12 word seed for your Metamask wallet.
