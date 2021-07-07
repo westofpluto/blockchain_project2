@@ -11,7 +11,7 @@ NOTE: To test this out, you will need to have a file called .secret in the root 
 This file must contain the 12 word seed for your Metamask wallet.
 This file was removed (using .gitignore) from the github submission.
 
-#ORIGINAL README FOLLOWS:
+# ORIGINAL README FOLLOWS:
 
 
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
